@@ -1,8 +1,8 @@
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=timeGradient&height=200&section=header&text=Welcome!&animation=twinkling&fontSize=90" />
 </p>
+  <h1 align="center">Contact me</h2>
 <p align="center">
-  <h2>Contact me</h2>
 <a href="https://www.linkedin.com/in/ikerib%C3%A1%C3%B1ezflores/">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="linkedin" width="50" height="50"/>
 </a>
