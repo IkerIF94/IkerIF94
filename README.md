@@ -10,6 +10,8 @@ education:
 fields_of_interests:
   [
     "Game Development",
+    "3D Modelling",
+    "Programming"
   ]
 
 hobbies: ["Gaming", "Cinema", "Reading"]
